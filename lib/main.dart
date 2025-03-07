@@ -31,6 +31,7 @@ class MyApp extends StatelessWidget {
   }
 }
 
+
 class EncryptorApp extends StatefulWidget {
   const EncryptorApp({super.key});
 
